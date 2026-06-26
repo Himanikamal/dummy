@@ -1,0 +1,6 @@
+{
+  "name": "Walk & Talk",
+  "description": "A stylish and comfortable footwear e-commerce website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
